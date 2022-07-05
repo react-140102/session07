@@ -1,0 +1,96 @@
+Getting Started
+	Cli
+	Expo
+	
+VPN or Shekan.ir
+	
+Cli
+	Install
+		react-native-cli
+		VIRTUAL 
+			BIOS
+			CPU Virtualization 
+		Android
+			Android Studio
+				SDK Location
+			JDK
+			SDK
+			HAXM
+				performance
+			Emulator
+				Genymotion
+					adb
+			ENV Variables
+				ANDROID_HOME
+				JAVA_HOME
+				PATH
+			Gradle
+		iOS
+		
+New Projet
+
+	npx react-native init MyApp --template react-native-template-typescript
+	npx react-native init appname
+
+	npx react-native start
+
+	npx react-native run-android
+
+
+		
+Folder Structure
+
+
+Diff
+	No HTML Tags
+		div -> View
+		…
+	CSS
+		FLEX
+		https://flexboxfroggy.com/
+	
+	
+	Events?
+		onClick -> onPress
+	❌className❌
+	
+	styleSheet✔
+		const styles = StyleSheet.create({})
+	Route -> Navigation
+	
+	Layout
+		button tab
+		drawer
+		
+	https://codeburst.io/react-native-navigation-patterns-9c2b6d15ddb3
+		
+		
+	adb devices
+	enable developer options
+		7 tap build number
+	enable usb debugging 
+
+
+App Common Features
+	Menu (navigation)
+	Native Features
+		camera
+		storage
+		sensors
+		RTL
+		…
+	Permissions 🔑
+	Notification 🔔
+		firebase
+		***
+	Auth 
+	Storage
+	API
+	Sqlite
+	maps
+	
+UI Components
+	NativeBase
+
+File Organization
+
